@@ -3,6 +3,11 @@
 > 一款Chrome代理管理扩展，支持HTTP/HTTPS/SOCKS协议，快速切换，智能规则匹配。
 ![image](https://github.com/user-attachments/assets/d1023649-0133-49d8-a68f-89e313f5d97a)
 
+**v2.1 优化UI, 增加代理认证功能。**
+
+<img width="444" height="643" alt="image" src="https://github.com/user-attachments/assets/81d948a6-d739-4435-a066-98d57e479598" />
+
+<img width="1917" height="974" alt="image" src="https://github.com/user-attachments/assets/51f81818-8724-4e65-80ed-728d01f04ee7" />
 
 **作者：Serim**
 
